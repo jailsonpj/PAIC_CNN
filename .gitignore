@@ -1,0 +1,5 @@
+# para todos os arquivos e sub-pastas localizados na pasta dataset/
+dataset/
+
+# para todos os arquivos e sub-pastas localizados na pasta cats_and_dogs_small
+cats_and_dogs_small/
